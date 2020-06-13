@@ -1,390 +1,424 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Prospera Free - New Amazing HTML5 Template</title>
-    <link rel="stylesheet" href="css/components.css">
-    <link rel="stylesheet" href="css/icons.css">
-    <link rel="stylesheet" href="css/responsee.css">
-    <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="owl-carousel/owl.theme.css">
-    <!-- CUSTOM STYLE -->
-    <link rel="stylesheet" href="css/template-style.css">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
-    <script type="text/javascript" src="js/jquery-ui.min.js"></script>    
-    <script type="text/javascript" src="js/validation.js"></script> 
-  </head>  
-  
-  <body class="size-1140">
-  	<!-- PREMIUM FEATURES BUTTON -->
-  	<a target="_blank" class="hide-s" href="../template/prospera-premium-responsive-business-template/" style="position:fixed;top:120px;right:-14px;z-index:10;"><img src="img/premium-features.png" alt=""></a>
-    <!-- HEADER -->
-    <header role="banner">    
-      <!-- Top Bar -->
-      <div class="top-bar background-white">
-        <div class="line">
-          <div class="s-12 m-6 l-6">
-            <div class="top-bar-contact">
-              <p class="text-size-12">Contact Us: 0800 200 200 | <a class="text-orange-hover" href="mailto:contact@sampledomain.com">contact@sampledomain.com</a></p>
-            </div>
-          </div>
-          <div class="s-12 m-6 l-6">
-            <div class="right">
-              <ul class="top-bar-social right">
-                <li><a href="/"><i class="icon-facebook_circle text-orange-hover"></i></a></li>
-                <li><a href="/"><i class="icon-twitter_circle text-orange-hover"></i></a> </li>
-                <li><a href="/"><i class="icon-google_plus_circle text-orange-hover"></i></a></li>
-                <li><a href="/"><i class="icon-instagram_circle text-orange-hover"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <!-- Top Navigation -->
-      <nav class="background-white background-primary-hightlight">
-        <div class="line">
-          <div class="s-12 l-2">
-            <a href="index.html" class="logo"><img src="img/logo-free.png" alt=""></a>
-          </div>
-          <div class="top-nav s-12 l-10">
-            <p class="nav-text"></p>
-            <ul class="right chevron">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="products.html">Products</a></li>
-              <li><a>Services</a>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>ubutia | Home</title>
+        <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo-icon.png"/>
+
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
+
+        <link href="assets/css/owl.carousel.css" rel="stylesheet">
+        <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
+
+        <link href="assets/css/magnific-popup.css" rel="stylesheet">
+
+        <link href="assets/css/style.css" rel="stylesheet">
+
+
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <div id="menu-item" class="menu-item hide-menu">
+            <div class="container">
                 <ul>
-                  <li><a>Service 1</a>
-                    <ul>
-                      <li><a>Service 1 A</a></li>
-                      <li><a>Service 1 B</a></li>
-                    </ul>
-                  </li>
-                  <li><a>Service 2</a></li>
+                    <a href="index.html"><li>home</li></a>
+                    <a href="#about"><li>about</li></a>
+                    <a href="#expertise"><li>expertise</li></a>
+                    <a href="#workstation"><li>workstation</li></a>
+                    <a href="#team"><li>team</li></a>
+                    <a href="#contact"><li>contact</li></a>
+                    <a href="elements.html"><li>Elements</li></a>
                 </ul>
-              </li>
-              <li><a href="about.html">About</a></li>
-              <li><a href="gallery.html">Gallery</a></li>
-              <li><a href="contact.html">Contact</a></li>
-            </ul>
-          </div>
+            </div>
         </div>
-      </nav>
-    </header>
-    
-    <!-- MAIN -->
-    <main role="main">
-      <!-- Main Carousel -->
-      <section class="section background-dark">
-        <div class="line">
-          <div class="carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-wide-arrows">
-            <div class="item">
-              <div class="s-12 center">
-                <img src="img/01-boxed.jpg" alt="">
-                <div class="carousel-content">
-                  <div class="padding-2x">
-                    <div class="s-12 m-12 l-8">
-                      <p class="text-white text-s-size-20 text-m-size-40 text-l-size-60 margin-bottom-40 text-thin text-line-height-1">Prospera is the New Amazing HTML5 Template</p>
-                      <p class="text-white text-size-16 margin-bottom-40">Duis autem vel eum iriure dolor in hendrerit in vulputate velit<br> esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>  
-                    </div>                  
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="s-12 center">
-                <img src="img/02-boxed.jpg" alt="">
-                <div class="carousel-content">
-                  <div class="padding-2x">
-                    <div class="s-12 m-12 l-8">
-                      <p class="text-white text-s-size-20 text-m-size-40 text-l-size-60 margin-bottom-40 text-thin text-line-height-1">With Fully Responsive Components</p>
-                      <p class="text-white text-size-16 margin-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>    
-                    </div>                  
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>  
-        </div>
-      </section>
-      
-      <!-- Section 1 -->
-      <section class="section background-white"> 
-        <div class="line">
-          <div class="margin">
-            <div class="s-12 m-12 l-4 margin-m-bottom">
-              <img class="margin-bottom" src="img/img-01.jpg" alt="">
-              <h2 class="text-thin">Clean Design</h2>
-              <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
-              <a class="text-more-info text-primary-hover" href="/">Read more</a>                
-            </div>
-            <div class="s-12 m-12 l-4 margin-m-bottom">
-              <img class="margin-bottom" src="img/img-02.jpg" alt="">
-              <h2 class="text-thin">Valid code</h2>
-              <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
-              <a class="text-more-info text-primary-hover" href="/">Read more</a>                
-            </div>
-            <div class="s-12 m-12 l-4 margin-m-bottom">
-              <img class="margin-bottom" src="img/img-03.jpg" alt="">
-              <h2 class="text-thin">Totally free</h2>
-              <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
-              <a class="text-more-info text-primary-hover" href="/">Read more</a>                
-            </div>
-          </div>
-        </div>
-      </section>
-      
-      <!-- Section 2 -->
-      <section class="section background-primary text-center">
-        <div class="line">
-          <div class="s-12 m-10 l-8 center">
-            <h2 class="headline text-thin text-s-size-30">We are Web Design Heroes</h2>
-            <p class="text-size-20">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-          </div>
-        </div>  
-      </section>
-      
-      <!-- Section 3 -->
-      <section class="section background-white">
-        <div class="full-width text-center">
-          <img class="center margin-bottom-30" style="margin-top: -210px;" src="img/bio.png" alt="">
-          <div class="line">
-            <h2 class="headline text-thin text-s-size-30">Fully <span class="text-primary">Responsive</span> HTML5 Template</h2>
-            <p class="text-size-20 text-s-size-16 text-thin">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis</p>
-            <i class="icon-more_node_links icon2x text-primary margin-top-bottom-10"></i>
-            <p class="text-size-20 text-s-size-16 text-thin text-primary">Try resize your browser window</p>
-          </div>  
-        </div>  
-      </section>
-      <hr class="break margin-top-bottom-0">
-      
-      <!-- Section 4 --> 
-      <section class="section background-white">
-        <div class="line">
-          <h2 class="text-thin headline text-center text-s-size-30 margin-bottom-50">From Our <span class="text-primary">Blog</span></h2>
-          <div class="carousel-default owl-carousel carousel-wide-arrows">
-            <div class="item">
-              <div class="margin"> 
-                <div class="s-12 m-12 l-6">
-                  <div class="image-border-radius margin-m-bottom">
-                    <div class="margin">
-                      <div class="s-12 m-12 l-4 margin-m-bottom">
-                        <a class="image-hover-zoom" href="/"><img src="img/blog-05.jpg" alt=""></a>
-                      </div>
-                      <div class="s-12 m-12 l-8 margin-m-bottom">
-                        <h3><a class="text-dark text-primary-hover" href="/">Lorem Ipsum Dolor sit Amet</a></h3>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                        <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-                <div class="s-12 m-12 l-6">
-                  <div class="image-border-radius">
-                    <div class="margin">
-                      <div class="s-12 m-12 l-4 margin-m-bottom">
-                        <a class="image-hover-zoom" href="/"><img src="img/blog-03.jpg" alt=""></a>
-                      </div>
-                      <div class="s-12 m-12 l-8">
-                        <h3><a class="text-dark text-primary-hover" href="/">Lorem Ipsum Dolor sit Amet</a></h3>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                        <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                      </div>
-                    </div>  
-                  </div>
-                </div> 
-              </div>
-            </div>
-            <div class="item"> 
-              <div class="margin"> 
-                <div class="s-12 m-12 l-6">
-                  <div class="image-border-radius margin-m-bottom">
-                    <div class="margin">
-                      <div class="s-12 m-12 l-4 margin-m-bottom">
-                        <a class="image-hover-zoom" href="/"><img src="img/blog-04.jpg" alt=""></a>
-                      </div>
-                      <div class="s-12 m-12 l-8 margin-m-bottom">
-                        <h3><a class="text-dark text-primary-hover" href="/">Lorem Ipsum Dolor sit Amet</a></h3>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                        <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-                <div class="s-12 m-12 l-6">
-                  <div class="image-border-radius">
-                    <div class="margin">
-                      <div class="s-12 m-12 l-4 margin-m-bottom">
-                        <a class="image-hover-zoom" href="/"><img src="img/blog-02.jpg" alt=""></a>
-                      </div>
-                      <div class="s-12 m-12 l-8">
-                        <h3><a class="text-dark text-primary-hover" href="/">Lorem Ipsum Dolor sit Amet</a></h3>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                        <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                      </div>
-                    </div>  
-                  </div>
-                </div> 
-              </div>
-            </div>
-            <div class="item">
-              <div class="margin"> 
-                <div class="s-12 m-12 l-6">
-                  <div class="image-border-radius margin-m-bottom">
-                    <div class="margin">
-                      <div class="s-12 m-12 l-4 margin-m-bottom">
-                        <a class="image-hover-zoom" href="/"><img src="img/blog-01.jpg" alt=""></a>
-                      </div>
-                      <div class="s-12 m-12 l-8 margin-m-bottom">
-                        <h3><a class="text-dark text-primary-hover" href="/">Lorem Ipsum Dolor sit Amet</a></h3>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                        <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-                <div class="s-12 m-12 l-6">
-                  <div class="image-border-radius">
-                    <div class="margin">
-                      <div class="s-12 m-12 l-4 margin-m-bottom">
-                        <a class="image-hover-zoom" href="/"><img src="img/blog-06.jpg" alt=""></a>
-                      </div>
-                      <div class="s-12 m-12 l-8">
-                        <h3><a class="text-dark text-primary-hover" href="/">Lorem Ipsum Dolor sit Amet</a></h3>
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                        <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                      </div>
-                    </div>  
-                  </div>
-                </div> 
-              </div>
-            </div>
-          </div>
-        </div>    
-      </section>
-      
-    </main>
-    
-    <!-- FOOTER -->
-    <footer>
-      <!-- Social -->
-      <div class="background-primary padding text-center">
-        <a href="/"><i class="icon-facebook_circle icon2x text-white"></i></a> 
-        <a href="/"><i class="icon-twitter_circle icon2x text-white"></i></a>
-        <a href="/"><i class="icon-google_plus_circle icon2x text-white"></i></a>
-        <a href="/"><i class="icon-instagram_circle icon2x text-white"></i></a>                                                                        
-      </div>
-      
-      <!-- Main Footer -->
-      <section class="section background-dark">
-        <div class="line">
-          <div class="margin">
-            <!-- Collumn 1 -->
-            <div class="s-12 m-12 l-4 margin-m-bottom-2x">
-              <h4 class="text-uppercase text-strong">Our Philosophy</h4>
-              <p class="text-size-20"><em>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."</em><p>
-                            
-              <div class="line">
-                <h4 class="text-uppercase text-strong margin-top-30">About Our Company</h4>
-                <div class="margin">
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <a class="image-hover-zoom" href="/"><img src="img/blog-04.jpg" alt=""></a>
-                  </div>
-                  <div class="s-12 m-12 l-8 margin-m-bottom">
-                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                    <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-            <!-- Collumn 2 -->
-            <div class="s-12 m-12 l-4 margin-m-bottom-2x">
-              <h4 class="text-uppercase text-strong">Contact Us</h4>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-placepin text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><b>Adress:</b> Responsive Street 7, London, UK</p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-mail text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><a href="/" class="text-primary-hover"><b>E-mail:</b> contact@sampledomain.com</a></p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-smartphone text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><b>Phone:</b> 0700 000 987</p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-twitter text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><a href="/" class="text-primary-hover"><b>Twitter</b></a></p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-facebook text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11">
-                  <p><a href="/" class="text-primary-hover"><b>Facebook</b></a></p>
-                </div>
-              </div>
-            </div>
-            
-            <!-- Collumn 3 -->
-            <div class="s-12 m-12 l-4">
-              <h4 class="text-uppercase text-strong">Leave a Message</h4>
-              <form class="customform text-white">
-                <div class="line">
-                  <div class="margin">
-                    <div class="s-12 m-12 l-6">
-                      <input name="email" class="required email border-radius" placeholder="Your e-mail" title="Your e-mail" type="text" />
+        <div class="main">
+            <header class="bg-img header">
+                <nav class="navbar navbar-default navbar-ubutia">
+                    <div class="container">
+                        <div class="navigation-bar">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <div class="logo">
+                                        <a href="index.html"><span class="ubutia-icon"></span></a>
+                                    </div>
+                                </div>
+                                <div class="col-xs-6 text-right">
+                                    <div class="menu m">
+                                        <a href="#"><span class="ion-navicon _ion-android-menu"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="s-12 m-12 l-6">
-                      <input name="name" class="name border-radius" placeholder="Your name" title="Your name" type="text" />
+                </nav>
+                <div class="container">
+                    <div class="row">
+                        <div class="intro-box">
+                            <div class="intro">
+                                <h1>We are ubutia agency</h1>
+                                <p>Creative digital agency based in US</p>
+                                <a class="btn ubutia-btn" href="#">Explore us</a>
+                            </div>
+                        </div>
                     </div>
-                  </div>
                 </div>
-                <div class="s-12">
-                  <textarea name="message" class="required message border-radius" placeholder="Your message" rows="3"></textarea>
+            </header>
+            <section id="about" class="about section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <h2 class="title">About agency</h2>
+                            <p>
+                              uButia is a free bootstrap template created by freshdesignweb teams. The template includes the complete source files for download such as HTML5, CSS, CSS3 and JavaScript for easy customization.
+                            </p>
+                            <img src="assets/images/signature.png">
+                            <span>ubutia Studio-ceo</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="s-12"><button class="submit-form button background-primary border-radius text-white" type="submit">Submit Button</button></div> 
-              </form>
-            </div>
-          </div>
+            </section>
+            <section class="purpose section">
+                <div class="container">
+                    <h2 class="title">What we do</h2>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <div class="card-icon">
+                                        <span class="graphic-design" aria-hidden="true"></span>
+                                    </div>
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Graphic Design</h3>
+                                    <p>
+                                       We provide the best grapich design for individual or coporate business purpose,also communication design, practice of planning and projecting ideas and experiences with visual eye.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <div class="card-icon">
+                                        <span class="webdevelopment" aria-hidden="true"></span>
+                                    </div>
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Web Development</h3>
+                                    <p>
+                                        We provide the best web development service for any personal or coporate project with great sulutions on demand, and we also use moderm web technology as well.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <div class="card-icon">
+                                        <span class="printing" aria-hidden="true"></span>
+                                    </div>
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Printing Design</h3>
+                                    <p>
+                                        We provide the best service with high-quality printing design and cost-effective printing for any business purpose.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="expertise" class="expert">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-6 bg-img">
+                            <div></div>
+                        </div>
+                        <div class="col-sm-5 section">
+                            <h2 class="title">Professional Design</h2>
+                            <div id="expert-slider" class="owl-carousel">
+                                <div class="item">
+                                    <p>
+                                       We specializes in professional design services for graphics design, web development, website design, portfolio design, professional small business design services and documents design. Need help? Consider using our professional designer to make your business growth up . There are advantages to using a professional that is experienced with web design, graphic design and conversion best practices. Call us now to find out more.
+                                    </p>
+                                </div>
+                                <div class="item">
+                                    <p>
+                                         We specializes in professional design services for graphics design, web development, website design, portfolio design, professional small business design services and documents design. Need help? Consider using our professional designer to make your business growth up . There are advantages to using a professional that is experienced with web design, graphic design and conversion best practices. Call us now to find out more.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="ubutia-quote section bg-img">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <img class="quote" src="assets/images/quote.png">
+                           <p>
+                               Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better.
+                           </p>
+                           <p class="author">Jim Rohn</p>
+                           <img src="assets/images/mouse.png">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="workstation" class="work section">
+                <div class="container">
+                    <h2 class="title">Our workstations</h2>
+                    <div id="workstation-slider" class="owl-carousel">
+                        <div class="item">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/4.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Creative Business Cup</h3>
+                                    <p>
+                                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/5.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Creative Cover Design</h3>
+                                    <p>
+                                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/6.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Creative Namecard</h3>
+                                    <p>
+                                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/4.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Creative geeks</h3>
+                                    <p>
+                                       Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/5.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Creative freaks</h3>
+                                    <p>
+                                      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/6.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Creative nerds</h3>
+                                    <p>
+                                       Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="watch bg-img">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <span>Watch showreel</span>
+                            <a class="popup-youtube btn" href="https://www.youtube.com/watch?v=oMIENcW6QM0"><span class="play-icon"></span></a>
+                            <span>with us</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="team" class="team section">
+                <div class="container">
+                    <h2 class="title">Our team</h2>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/8.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Rosa Ly</h3>
+                                    <p>
+                                      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                    <div class="social-icons">
+                                        <ul>
+                                            <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                            <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/9.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Eva Ly</h3>
+                                    <p>
+                                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                    </p>
+                                    <div class="social-icons">
+                                        <ul>
+                                            <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                            <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                    <img class="img-responsive" src="assets/images/10.jpg">
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Graham Bill</h3>
+                                    <p>
+                                      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. 
+                                    </p>
+                                    <div class="social-icons">
+                                        <ul>
+                                            <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                            <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="subscribe section bg-img">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p>Subscribe to our newsletter to get update</p>
+                            <form class="form-inline">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="user-email" placeholder="Write your email here....">
+                                </div>
+                                <button type="submit" class="btn ubutia-btn">Send me</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="contact" class="contact section">
+                <div class="container">
+                    <h2 class="title">Drop us a line</h2>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                        <span class="fa fa-map-o" aria-hidden="true"></span>
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Address</h3>
+                                    <p>
+                                        Level 5, 25 pitt st, US
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                        <span class="fa fa-phone" aria-hidden="true"></span>
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Phone</h3>
+                                    <p>
+                                        +555 211 3747
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="ubutia-card">
+                                <div class="ubutia-card-header">
+                                        <span class="fa fa-paper-plane" aria-hidden="true"></span>
+                                </div>
+                                <div class="ubutia-card-content">
+                                    <h3>Email</h3>
+                                    <p>
+                                        hey@freshdesignweb.com
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="social-icons">
+                                <ul>
+                                    <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                    <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                    <a href="#"><li><span class="ion-social-pinterest"></span></li></a>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p>Design <font class="logo-icon"></font> by <a href="https://www.freshdesignweb.com/">freshDesignweb</a></p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
         </div>
-      </section>
-      <hr class="break margin-top-bottom-0" style="border-color: rgba(0, 38, 51, 0.80);">
-      
-      <!-- Bottom Footer -->
-      <section class="padding background-dark">
-        <div class="line">
-          <div class="s-12 l-6">
-            <p class="text-size-12">Copyright 2019, Vision Design - graphic zoo</p>
-            <p class="text-size-12">All images have been purchased from Bigstock. Do not use the images in your website.</p>
-          </div>
-          <div class="s-12 l-6">
-            <a class="right text-size-12" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding<br> by Responsee Team</a>
-          </div>
-        </div>
-      </section>
-    </footer> 
-    <script type="text/javascript" src="js/responsee.js"></script>
-    <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
-    <script type="text/javascript" src="js/template-scripts.js"></script>   
-   </body>
+
+        <script src="assets/js/jquery-3.1.1.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/script.js"></script>
+    </body>
 </html>
